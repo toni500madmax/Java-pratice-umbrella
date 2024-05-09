@@ -1,6 +1,6 @@
 ## I'm Getting Started With Java
 
-### 09/05/2024.
+### Version 2, 09/05/2024.
 
 Welcome to my pratices in Java Language. The Todo list is a Joker Program that everyone should write, for its utility and scalability.
 First of all let's gain knowledgement that my proposal in this project is develop my skills, i'm a beginner yet.
