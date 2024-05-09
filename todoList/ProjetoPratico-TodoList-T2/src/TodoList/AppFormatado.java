@@ -6,7 +6,8 @@ import java.util.Scanner;
 public class AppFormatado {
 
     // todo: 1. Adicionar tratamento de excessões;
-    // todo: 2. Criar mais funções comuns estáticas para adicionar qualidade;
+    // todo: 2. Adicionar datas às tarefas, e períodos que tarefas devem existir.
+    // todo: 3. Criar mais funções comuns estáticas para adicionar qualidade;
 
     public static void presents() {
         /* Apresentação */
