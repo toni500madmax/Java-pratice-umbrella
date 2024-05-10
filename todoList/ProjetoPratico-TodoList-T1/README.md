@@ -6,7 +6,7 @@ Welcome to my pratices in Java Language. The Todo list is a Joker Program that e
 First of all let's gain knowledgement that my proposal in this project is develop my skills, i'm a beginner yet.
 So, let's know how it'l be committed, shall we?
 
-- First Commit, it just contain the Referenced Objects Association from OOP Structure.
+- First Commit, it just contain the References of Objects Composites Associations from OOP Structure.
   a. Functions referenced each other through the Classes.
   b. Has Functions that generalize some code snippets in common.
   
